@@ -50,3 +50,5 @@ java -classpath twitter.jar:lib/commons-collections-3.2.1.jar exp/twitter/Twitte
 
 2. The estimation can take a while since this legacy implementation does not compute network statistics on the fly. Faster implementation should only compute network statistics for sampled event and control nodes.
 
+The code was written by Duy Vu - as of April 3, 2013, he's a research fellow in the Department of Mathematics and Statistics at the University of Melbourne, http://www.ms.unimelb.edu.au/Personnel/profile.php?PC_id=1186
+
